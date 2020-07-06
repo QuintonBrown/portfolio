@@ -4,7 +4,7 @@ const projects = require('../../data/projects.json')
 
 const Projects = () => {
     return (
-        <React.Fragment>
+        <div className="project-content">
             <div className="project-header">Check some of my work out!</div>
         <div className="projects-wrapper">
             {projects.map((project) => {
@@ -29,7 +29,7 @@ const Projects = () => {
             }
     
             </div> 
-            </React.Fragment>
+            </div>
     )}
 
 export default Projects

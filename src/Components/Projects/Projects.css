@@ -1,3 +1,6 @@
+.project-content {
+    max-height: 100vh;
+}
 .project-header {
     font-weight: 400;
     font-size: 4rem;
@@ -8,7 +11,6 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    max-height: 100vh;
     background-color: #3897f0;
 }
 .cover {
