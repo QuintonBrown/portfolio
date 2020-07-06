@@ -1,5 +1,24 @@
 [
     {
+        "title" : "Gateway Project",
+        "cover" : "/images/Gateway.png",
+        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
+        "github" : "https://github.com/QuintonBrown/Gateway-Project",
+        "url" : "https://gateway-project.netlify.app/"
+    },
+    {
+        "title" : "The Plug",
+        "cover" : "/images/theplug.png",
+        "description" : "djfdskfhdskfhdsfk",
+        "url" : "https://the-plug.netlify.app/"
+    },
+    {
+        "title" : "The Plug",
+        "cover" : "/images/theplug.png",
+        "description" : "djfdskfhdskfhdsfk",
+        "url" : "https://the-plug.netlify.app/"
+    },
+    {
         "title" : "The Plug",
         "cover" : "/images/theplug.png",
         "description" : "djfdskfhdskfhdsfk",

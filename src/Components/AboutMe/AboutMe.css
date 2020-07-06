@@ -12,7 +12,9 @@
 .aboutme-pic{
     border-radius: 30%;
     margin-top: 5px;
-    
+    padding-left: 20px;
+    height: 800px;
+    width: 700px;
 }
 
 .aboutme-title {
@@ -20,10 +22,10 @@
     color: #3897f0;
 }
 
-.aboutme-text-ital {
+.aboutme-paragraph {
     font-style: italic;
-    font-weight: 400;
-    font-size: 3rem;
+    font-weight: 300;
+    font-size: 2rem;
 }
 .aboutme-text {
     font-size: 3rem;

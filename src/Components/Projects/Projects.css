@@ -1,15 +1,21 @@
+.project-header {
+    font-weight: 400;
+    font-size: 4rem;
+    background-color: #3897f0;
+    color: white;
+}
 .projects-wrapper {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
-    height: 100vh;
-
+    max-height: 100vh;
+    background-color: #3897f0;
 }
 .cover {
-    height: 300px;
-    padding: 10px;
+    height: 275px;
     opacity: 1;
   display: block;
-  width: 500px;
+  width: 45vw;
   transition: .5s ease;
   backface-visibility: hidden;
 }
@@ -38,10 +44,11 @@
 }
 
 .title, .description, .url {
-  background-color: #4CAF50;
+  background-color: #3897f0;
   color: white;
   font-size: 16px;
   padding: 8px 16px;
+  border: 1px solid white;
 }
 .url, .url:visited {
     text-decoration: none;
