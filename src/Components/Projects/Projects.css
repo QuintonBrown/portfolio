@@ -1,6 +1,4 @@
-.project-content {
-    max-height: 100vh;
-}
+
 .project-header {
     font-weight: 400;
     font-size: 4rem;
@@ -12,14 +10,17 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #3897f0;
+    height: 100vh;
 }
 .cover {
-    height: 30vh;
+    height: 35vh;
     opacity: 1;
   display: block;
-  width: 45vw;
+  width: 30vw;
   transition: .5s ease;
   backface-visibility: hidden;
+  margin-top: 20px;
+  padding: 10px;
 }
 .projects-card-wrapper {
     position: relative;

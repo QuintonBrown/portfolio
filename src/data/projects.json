@@ -13,9 +13,9 @@
         "url" : "https://the-plug.netlify.app/"
     },
     {
-        "title" : "The Plug",
-        "cover" : "/images/theplug.png",
-        "description" : "djfdskfhdskfhdsfk",
+        "title" : "Git It",
+        "cover" : "/images/gitit.png",
+        "description" : "An interactive site that uses githubs API to find your friends!",
         "url" : "https://the-plug.netlify.app/"
     },
     {
