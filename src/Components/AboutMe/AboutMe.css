@@ -13,8 +13,8 @@
     border-radius: 30%;
     margin-top: 5px;
     padding-left: 20px;
-    height: 800px;
-    width: 700px;
+    height: 700px;
+    width: 600px;
 }
 
 .aboutme-title {
@@ -29,4 +29,14 @@
 }
 .aboutme-text {
     font-size: 3rem;
+}
+
+.technologies img {
+    height: 150px;
+    width: 150px;
+    padding: 5px;
+}
+
+.technologies a {
+    text-decoration: none;
 }
