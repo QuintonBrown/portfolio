@@ -4,7 +4,7 @@ import './Profile.css'
 const Profile = () => {
     return (
         <React.Fragment>
-        <div className="profile-wrapper">
+        <div className="profile-wrapper" id="profile">
             <img className="profile-pic" src="./images/Selfie.png" alt="Quinton Brown" />
             <div className="details">
             {/* <div className="profile-pic"><img src="./images/Selfie.png" alt="Quinton Selfie"/></div> */}

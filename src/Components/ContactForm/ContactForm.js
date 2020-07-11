@@ -6,7 +6,7 @@ const ContactForm = () => {
  
         return (
          
-            <div className="contact-wrapper">
+            <div className="contact-wrapper" id="contact">
                 <div className="contact-container">
         <div className="contact-form-data">
                         <form name="contact" method="POST" data-netlify="true">
