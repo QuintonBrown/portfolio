@@ -16,8 +16,8 @@ const Projects = () => {
                             <div className="middle">
                             <h2 className="title">{project.title}</h2>
                             <p className="description">{project.description}</p>
-                            <a className="url" href={project.url}>Website</a>
-                            <a className="url" href={project.github}>Github</a>
+                            <a className="url" href={project.url} target="_blank" rel="noopener noreferrer">Website</a>
+                            <a className="url" href={project.github} target="_blank" rel="noopener noreferrer">Github</a>
                             </div>
                         </div>
                   
