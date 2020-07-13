@@ -1,5 +1,5 @@
 .profile-wrapper {
-    height: 93vh;
+    height: 100vh;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -8,53 +8,26 @@
 .details {
     justify-content: space-around;
 }
-.profile-pic{
-    border-radius: 100%;
-    margin-top: 5px;
-    
-}
 
 .profile-title {
-    font-size: 4.5rem;
+    font-size: 7rem;
     color: #3897f0;
 }
 
 .profile-text-ital {
     font-style: italic;
     font-weight: 400;
-    font-size: 3rem;
+    font-size: 5rem;
 }
 .profile-text {
     font-size: 3rem;
 }
 
-.arrow img{
-   background-color: rgba(206, 203, 203, 0);
-   height: 45px;
-   width: 75px;
+.resume img{
+    height: 100px;
+    width: 100px;
 }
 
-.icons img {
-    height: 50px;
-    width: 50px;
-    padding: 5px;
-}
 
-.icons a {
-    text-decoration: none;
-}
-button {
-    align-self: flex-end;
-    margin-right: auto;
-}
 
-/* .chevron {
-    border-style: solid;
-	border-width: 0.25em 0.25em 0 0;
-	height: 1em;
-	transform: rotate(135deg);
-    width: 1em;
-    align-self: flex-end;
-    justify-self: center;
-    
-} */
+

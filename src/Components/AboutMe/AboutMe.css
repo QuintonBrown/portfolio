@@ -10,11 +10,9 @@
     justify-content: space-around;
 }
 .aboutme-pic{
-    border-radius: 30%;
+    border-radius: 100%;
     margin-top: 5px;
-    padding-left: 20px;
-    height: 700px;
-    width: 600px;
+   
 }
 
 .aboutme-title {
@@ -25,7 +23,7 @@
 .aboutme-paragraph {
     font-style: italic;
     font-weight: 300;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 .aboutme-text {
     font-size: 3rem;
