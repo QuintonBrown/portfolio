@@ -13,15 +13,14 @@
     background-color: #3897f0;
     height: 100vh;
 }
-.cover {
-    height: 35vh;
+.highlight-cover {
+    height: 40vh;
     opacity: 1;
   display: block;
-  width: 30vw;
+  width: 45vw;
   transition: .5s ease;
   backface-visibility: hidden;
   margin-top: 20px;
-  padding: 10px;
 }
 .projects-card-wrapper {
     position: relative;
@@ -47,17 +46,17 @@
   text-align: center;
 }
 
-.title, .description, .url {
+.highlight-title, .highlight-description, .highlight-url {
   background-color: #3897f0;
   color: white;
-  font-size: 16px;
+  font-size: 25px;
   padding: 8px 16px;
   border: 1px solid white;
 }
-.url, .url:visited {
+.highlight-url, .highlight-url:visited {
     text-decoration: none;
 }
 
-.url:hover {
+.highlight-url:hover {
     color: black;
 }
