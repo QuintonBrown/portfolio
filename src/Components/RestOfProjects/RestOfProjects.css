@@ -11,7 +11,7 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #3897f0;
-    height: 85vh;
+    height: 100%;
 }
 .cover {
     height: 39vh;
