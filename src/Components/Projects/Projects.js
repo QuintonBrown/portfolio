@@ -19,16 +19,19 @@ const Projects = () => {
                             <a className="highlight-url" href={project.url} target="_blank" rel="noopener noreferrer">Website</a>
                             <a className="highlight-url" href={project.github} target="_blank" rel="noopener noreferrer">Github</a>
                         </div>
-                        </div>
+                    </div>
+                    
                   
                 )
+                
             }
         
             )
   
             }
-    
+            
             </div> 
+            <button>Want to see more?</button>
             </div>
     )}
 

@@ -11,7 +11,7 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #3897f0;
-    height: 100vh;
+    height: 85vh;
 }
 .highlight-cover {
     height: 39vh;
@@ -59,4 +59,19 @@
 
 .highlight-url:hover {
     color: black;
+}
+
+.btn {
+    height: 20px;
+    width: 40px;
+    position: static;
+    bottom: 0;
+}
+
+button {
+    background-color: white;
+    height: 40px;
+    color: #3897f0;
+    font-size: 1rem;
+    
 }

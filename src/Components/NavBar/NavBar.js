@@ -9,10 +9,10 @@ const NavBar = () => {
           <a href="#profile">Profile</a>
         </li>
         <li>
-          <a href="#aboutme">About Me</a>
+          <a href="#projects">Projects</a>
         </li>
         <li>
-          <a href="#projects">Projects</a>
+          <a href="#aboutme">About Me</a>
         </li>
         <li>
           <a href="#contact">Contact</a>
@@ -23,3 +23,4 @@ const NavBar = () => {
 };
 
 export default NavBar
+
