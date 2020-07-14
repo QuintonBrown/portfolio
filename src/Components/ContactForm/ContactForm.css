@@ -1,9 +1,10 @@
 .contact-wrapper{
-    height:90vh;
+    height:93.5vh;
     display:flex;
     flex-direction: column;
     justify-content: space-between;
     margin: auto;
+    background-color: #3897f0;
 }
 .contact-container{
     width: 60vw;

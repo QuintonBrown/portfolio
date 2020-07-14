@@ -6,12 +6,12 @@
     color: white;
     padding-top: 20px;
 }
-.projects-wrapper {
+.restofprojects-wrapper {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #3897f0;
-    height: 100vh;
+    height: 100%;
 }
 .cover {
     height: 35vh;

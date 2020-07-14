@@ -1,12 +1,12 @@
 import React from 'react' 
-import './Projects.css'
-const projects = require('../../data/projects.json')
+import './RestOfProjects.css'
+const projects = require('../../data/restofprojects.json')
 
-const Projects = () => {
+const RestOfProjects = () => {
     return (
         <div className="project-content" id="projects">
-            <div className="project-header">Check out some of my work!</div>
-        <div className="projects-wrapper">
+            <div className="project-header">Check more of my work!</div>
+        <div className="restofprojects-wrapper">
             {projects.map((project) => {
                 return (
                     <div className="projects-card-wrapper" key={project.title}>
@@ -32,6 +32,6 @@ const Projects = () => {
             </div>
     )}
 
-export default Projects
+export default RestOfProjects
 
 

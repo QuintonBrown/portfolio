@@ -1,0 +1,86 @@
+[
+    {
+        "title" : "Gateway Project",
+        "cover" : "/images/Gateway.png",
+        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
+        "github" : "https://github.com/QuintonBrown/Gateway-Project",
+        "url" : "https://gateway-project.netlify.app/"
+    },
+    {
+        "title" : "The Plug",
+        "cover" : "/images/theplug.png",
+        "description" : "Ecommerce project built with React",
+        "github":"https://github.com/QuintonBrown/The-Plug",
+        "url" : "https://the-plug.netlify.app/"
+    },
+    {
+        "title" : "Git It",
+        "cover" : "/images/gitit.png",
+        "description" : "An interactive site that uses githubs API to find your friends!",
+        "github":"https://github.com/QuintonBrown/react-gitit",
+        "url" : "https://react-gitit.netlify.app/"
+    },
+    {
+        "title" : "Gateway Project",
+        "cover" : "/images/Gateway.png",
+        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
+        "github" : "https://github.com/QuintonBrown/Gateway-Project",
+        "url" : "https://gateway-project.netlify.app/"
+    },
+    {
+        "title" : "Gateway Project",
+        "cover" : "/images/Gateway.png",
+        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
+        "github" : "https://github.com/QuintonBrown/Gateway-Project",
+        "url" : "https://gateway-project.netlify.app/"
+    },
+    {
+        "title" : "The Plug",
+        "cover" : "/images/theplug.png",
+        "description" : "Ecommerce project built with React",
+        "github":"https://github.com/QuintonBrown/The-Plug",
+        "url" : "https://the-plug.netlify.app/"
+    },
+    {
+        "title" : "Git It",
+        "cover" : "/images/gitit.png",
+        "description" : "An interactive site that uses githubs API to find your friends!",
+        "github":"https://github.com/QuintonBrown/react-gitit",
+        "url" : "https://react-gitit.netlify.app/"
+    },
+    {
+        "title" : "Gateway Project",
+        "cover" : "/images/Gateway.png",
+        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
+        "github" : "https://github.com/QuintonBrown/Gateway-Project",
+        "url" : "https://gateway-project.netlify.app/"
+    },
+    {
+        "title" : "Gateway Project",
+        "cover" : "/images/Gateway.png",
+        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
+        "github" : "https://github.com/QuintonBrown/Gateway-Project",
+        "url" : "https://gateway-project.netlify.app/"
+    },
+    {
+        "title" : "The Plug",
+        "cover" : "/images/theplug.png",
+        "description" : "Ecommerce project built with React",
+        "github":"https://github.com/QuintonBrown/The-Plug",
+        "url" : "https://the-plug.netlify.app/"
+    },
+    {
+        "title" : "Git It",
+        "cover" : "/images/gitit.png",
+        "description" : "An interactive site that uses githubs API to find your friends!",
+        "github":"https://github.com/QuintonBrown/react-gitit",
+        "url" : "https://react-gitit.netlify.app/"
+    },
+    {
+        "title" : "Gateway Project",
+        "cover" : "/images/Gateway.png",
+        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
+        "github" : "https://github.com/QuintonBrown/Gateway-Project",
+        "url" : "https://gateway-project.netlify.app/"
+    }
+]
