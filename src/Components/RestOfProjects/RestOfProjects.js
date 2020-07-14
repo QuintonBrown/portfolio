@@ -5,7 +5,7 @@ const projects = require('../../data/restofprojects.json')
 const RestOfProjects = () => {
     return (
         <div className="project-content" id="projects">
-            <div className="project-header">Check more of my work!</div>
+            <div className="project-header">Check out more of my work!</div>
         <div className="restofprojects-wrapper">
             {projects.map((project) => {
                 return (
