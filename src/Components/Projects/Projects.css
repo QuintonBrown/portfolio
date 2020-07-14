@@ -6,14 +6,14 @@
     color: white;
     padding-top: 20px;
 }
-.projects-wrapper {
+.highlight-projects-wrapper {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #3897f0;
     height: 85vh;
 }
-.highlight-cover {
+.cover {
     height: 39vh;
     opacity: 1;
   display: block;
@@ -46,18 +46,18 @@
   text-align: center;
 }
 
-.highlight-title, .highlight-description, .highlight-url {
+.title, .description, .url {
   background-color: #3897f0;
   color: white;
   font-size: 16px;
   padding: 8px 16px;
   border: 1px solid white;
 }
-.highlight-url, .highlight-url:visited {
+.url, .url:visited {
     text-decoration: none;
 }
 
-.highlight-url:hover {
+.url:hover {
     color: black;
 }
 

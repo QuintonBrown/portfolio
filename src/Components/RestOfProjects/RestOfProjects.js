@@ -6,7 +6,7 @@ const RestOfProjects = () => {
     return (
         <div className="project-content" id="projects">
             <div className="project-header">Check out more of my work!</div>
-        <div className="restofprojects-wrapper">
+        <div className="restof-projects-wrapper">
             {projects.map((project) => {
                 return (
                     <div className="projects-card-wrapper" key={project.title}>
