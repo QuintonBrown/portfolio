@@ -138,18 +138,19 @@
     .project-header {
         font-weight: 400;
         font-size: 1rem;
+        padding-bottom: 5px;
     }
     .highlight-projects-wrapper {
         height: 100%;
     }
     .cover {
-        height: 39vh;
+        height: 38vh;
         opacity: 1;
       display: flex;
       width: 100vw;
       transition: .5s ease;
       backface-visibility: hidden;
-      margin-top: 20px;
+      padding-bottom: 30px;
     }
    
     
@@ -164,16 +165,10 @@
         text-decoration: none;
     }
     
-   
-    
-    .btn {
-        height: 10px;
-        width: 20px;
-    }
-    
-    button {
+   .projects button {
         height: 30px;
-        font-size: .5rem;
+        font-size: 1rem;
+        margin-top: 25px;
         
     }
   }
