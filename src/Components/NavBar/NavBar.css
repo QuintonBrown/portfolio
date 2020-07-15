@@ -6,7 +6,7 @@ ul {
     overflow: hidden;
     display: flex;
     position: fixed;
-    padding-left: 72%;
+    padding-left: 70%;
     margin-top: 0;
     z-index: 1;
   }
