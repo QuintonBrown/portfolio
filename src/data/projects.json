@@ -2,7 +2,7 @@
     {
         "title" : "Gateway Project",
         "cover" : "/images/Gateway.png",
-        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
+        "description" : "My first ever site built in 2 weeks utilizing HTML and CSS",
         "github" : "https://github.com/QuintonBrown/Gateway-Project",
         "url" : "https://gateway-project.netlify.app/"
     },

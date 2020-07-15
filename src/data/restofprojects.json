@@ -28,46 +28,45 @@
         "url" : "https://gateway-project.netlify.app/"
     },
     {
-        "title" : "Gateway Project",
-        "cover" : "/images/Gateway.png",
-        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
-        "github" : "https://github.com/QuintonBrown/Gateway-Project",
-        "url" : "https://gateway-project.netlify.app/"
+        "title" : "Pokemon Inquirer",
+        "cover" : "/images/pokemon.jpg",
+        "description" : "",
+        "github" : "https://github.com/QuintonBrown/Pokemon-Inquirer"
     },
     {
-        "title" : "The Plug",
-        "cover" : "/images/theplug.png",
-        "description" : "Ecommerce project built with React",
-        "github":"https://github.com/QuintonBrown/The-Plug",
-        "url" : "https://the-plug.netlify.app/"
+        "title" : "Tic Tac Toe",
+        "cover" : "/images/tictactoe.png",
+        "description" : "",
+        "github":"https://github.com/QuintonBrown/hooks-tic-tac-toe",
+        "url" : "https://hooks-tic-tac-toe.netlify.app/"
     },
     {
-        "title" : "Git It",
-        "cover" : "/images/gitit.png",
-        "description" : "An interactive site that uses githubs API to find your friends!",
-        "github":"https://github.com/QuintonBrown/react-gitit",
-        "url" : "https://react-gitit.netlify.app/"
+        "title" : "QB Hotel",
+        "cover" : "/images/qbhotel.png",
+        "description" : "",
+        "github":"https://github.com/QuintonBrown/QBHotel",
+        "url" : "qb-hotel.netlify.app/"
     },
     {
-        "title" : "Gateway Project",
-        "cover" : "/images/Gateway.png",
-        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
-        "github" : "https://github.com/QuintonBrown/Gateway-Project",
-        "url" : "https://gateway-project.netlify.app/"
+        "title" : "Animated Nav Bar",
+        "cover" : "/images/animatednavbar.png",
+        "description" : "",
+        "github" : "https://github.com/QuintonBrown/AnimatedNavBar",
+        "url" : "animated-nav-bar.netlify.app"
     },
     {
-        "title" : "Gateway Project",
-        "cover" : "/images/Gateway.png",
-        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
-        "github" : "https://github.com/QuintonBrown/Gateway-Project",
-        "url" : "https://gateway-project.netlify.app/"
+        "title" : "To Do List",
+        "cover" : "/images/todolist.png",
+        "description" : "",
+        "github" : "https://github.com/QuintonBrown/ToDoList",
+        "url" : "https://qb-todolist.netlify.app"
     },
     {
-        "title" : "The Plug",
-        "cover" : "/images/theplug.png",
-        "description" : "Ecommerce project built with React",
-        "github":"https://github.com/QuintonBrown/The-Plug",
-        "url" : "https://the-plug.netlify.app/"
+        "title" : "Remove a Friend",
+        "cover" : "/images/removefriend.png",
+        "description" : "",
+        "github":"https://github.com/QuintonBrown/RemoveFriends",
+        "url" : "removefriends.netlify.app"
     },
     {
         "title" : "Git It",
