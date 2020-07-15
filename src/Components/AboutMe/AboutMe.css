@@ -37,6 +37,71 @@
     padding: 5px;
 }
 
-.technologies a {
-    text-decoration: none;
+@media (min-width:768px) and (max-width: 1024px) {
+    .aboutme-wrapper {
+        padding-left: 20px;
+        padding-right: 20px;
+        
+    
+    }
+    .aboutme-pic{
+        border-radius: 100%;
+        height: 300px;
+        width: 300px;
+        margin-top: 5px;
+       
+    }
+    
+    .aboutme-title {
+        font-size: 2.5rem;
+    }
+    
+    .aboutme-paragraph {
+        font-weight: 300;
+        font-size: 2rem;
+    }
+    .aboutme-text {
+        font-size: 3rem;
+    }
+    
+    .technologies img {
+        height: 70px;
+        width: 70px;
+        padding: 5px;
+    }
+
 }
+  @media (min-width:320px) and (max-width: 767px) {
+    .aboutme-wrapper {
+        padding-left: 10px;
+        padding-right: 10px;
+        
+    
+    }
+    .aboutme-pic{
+        border-radius: 100%;
+        height: 130px;
+        width: 130px;
+        margin-top: 5px;
+       
+    }
+    
+    .aboutme-title {
+        font-size: 1rem;
+    }
+    
+    .aboutme-paragraph {
+        font-weight: 300;
+        font-size: 1rem;
+    }
+    .aboutme-text {
+        font-size: 3rem;
+    }
+    
+    .technologies img {
+        height: 50px;
+        width: 50px;
+        padding: 5px;
+    }
+
+  }

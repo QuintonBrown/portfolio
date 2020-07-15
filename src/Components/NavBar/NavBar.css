@@ -1,3 +1,4 @@
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -29,4 +30,26 @@ ul {
   li a:hover {
     background-color: #3897f0;
     color: white;
+  }
+
+
+  @media (min-width:768px) and (max-width: 1024px) {
+    ul {
+      width: 100%;
+    }
+ 
+    li a {
+      font-size: .5rem;
+    }
+    
+  }
+
+  @media (min-width:320px) and (max-width: 767px) {
+    ul {
+      width: 100%;
+    }
+ 
+    li a {
+      font-size: .5rem;
+    } 
   }
