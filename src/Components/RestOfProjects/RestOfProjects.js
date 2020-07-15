@@ -1,14 +1,18 @@
 import React from 'react' 
 import './RestOfProjects.css'
+import RestOfProjectsNavBar from '../RestOfProjectsNavBar/RestOfProjectsNavBar.js'
 const projects = require('../../data/restofprojects.json')
 
 const RestOfProjects = () => {
-    return (
-        <div className="project-content" id="projects">
+    return ( 
+        <React.Fragment>
+        <RestOfProjectsNavBar />
+        <div className="project-content" id="restofprojects">
             <div className="project-header">Check out more of my work!</div>
         <div className="restof-projects-wrapper">
             {projects.map((project) => {
-                return (
+                return ( 
+                    
                     <div className="projects-card-wrapper" key={project.title}>
                     
                         <img className="cover" src={project.cover} alt={project.title} />
@@ -30,6 +34,7 @@ const RestOfProjects = () => {
     
             </div> 
             </div>
+            </React.Fragment>
     )}
 
 export default RestOfProjects

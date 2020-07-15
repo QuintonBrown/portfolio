@@ -1,5 +1,7 @@
 import React from 'react' 
 import './Projects.css'
+import { NavLink } from 'react-router-dom'
+
 const projects = require('../../data/projects.json')
 
 const Projects = () => {
@@ -29,9 +31,10 @@ const Projects = () => {
             )
   
             }
-            
             </div> 
-            <button>Want to see more?</button>
+            <NavLink exact to="/MoreProjects" className="projects">
+                <button>See more</button>
+            </NavLink>
             </div>
     )}
 

@@ -13,6 +13,9 @@
     background-color: #3897f0;
     height: 85vh;
 }
+.project-content {
+    background-color: #3897f0;
+}
 .cover {
     height: 39vh;
     opacity: 1;
@@ -68,12 +71,18 @@
     bottom: 0;
 }
 
-button {
+.projects button {
     background-color: white;
     height: 40px;
     color: #3897f0;
     font-size: 1rem;
+    margin-bottom: 10px;
     
+}
+
+.projects button:hover {
+    color: white;
+    background-color: #3897f0;
 }
 
 @media (min-width:768px) and (max-width: 1024px) {
