@@ -30,7 +30,7 @@
     {
         "title" : "Pokemon Inquirer",
         "cover" : "/images/pokemon.jpg",
-        "description" : "",
+        "description" : "Can only be ran locally",
         "github" : "https://github.com/QuintonBrown/Pokemon-Inquirer"
     },
     {
