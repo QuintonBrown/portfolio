@@ -21,10 +21,10 @@
         "url" : "https://react-gitit.netlify.app/"
     },
     {
-        "title" : "Gateway Project",
-        "cover" : "/images/Gateway.png",
-        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
-        "github" : "https://github.com/QuintonBrown/Gateway-Project",
-        "url" : "https://gateway-project.netlify.app/"
+        "title" : "My Friends",
+        "cover" : "/images/myfriends.png",
+        "description" : "Site that shows off my understanding of json ajax fetch and API.",
+        "github" : "https://github.com/QuintonBrown/MyFriends",
+        "url" : ""
     }
 ]

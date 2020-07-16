@@ -21,11 +21,11 @@
         "url" : "https://react-gitit.netlify.app/"
     },
     {
-        "title" : "Gateway Project",
-        "cover" : "/images/Gateway.png",
-        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
-        "github" : "https://github.com/QuintonBrown/Gateway-Project",
-        "url" : "https://gateway-project.netlify.app/"
+        "title" : "My Friends",
+        "cover" : "/images/myfriends.png",
+        "description" : "Site that shows off my understanding of json ajax fetch and API.",
+        "github" : "https://github.com/QuintonBrown/MyFriends",
+        "url" : ""
     },
     {
         "title" : "Pokemon Inquirer",
@@ -36,50 +36,50 @@
     {
         "title" : "Tic Tac Toe",
         "cover" : "/images/tictactoe.png",
-        "description" : "",
+        "description" : "Grab a friend and have some fun!",
         "github":"https://github.com/QuintonBrown/hooks-tic-tac-toe",
         "url" : "https://hooks-tic-tac-toe.netlify.app/"
     },
     {
         "title" : "QB Hotel",
         "cover" : "/images/qbhotel.png",
-        "description" : "",
+        "description" : "The illustrious QB Hotel start by the Quinton Brown",
         "github":"https://github.com/QuintonBrown/QBHotel",
         "url" : "qb-hotel.netlify.app/"
     },
     {
         "title" : "Animated Nav Bar",
         "cover" : "/images/animatednavbar.png",
-        "description" : "",
+        "description" : "Nav bar that shows the use of media queries and css animations",
         "github" : "https://github.com/QuintonBrown/AnimatedNavBar",
         "url" : "animated-nav-bar.netlify.app"
     },
     {
         "title" : "To Do List",
         "cover" : "/images/todolist.png",
-        "description" : "",
+        "description" : "Have to remember something important? Add in a task and no longer forget.",
         "github" : "https://github.com/QuintonBrown/ToDoList",
         "url" : "https://qb-todolist.netlify.app"
     },
     {
         "title" : "Remove a Friend",
         "cover" : "/images/removefriend.png",
-        "description" : "",
+        "description" : "Site that uses state and props to remove objects from array",
         "github":"https://github.com/QuintonBrown/RemoveFriends",
         "url" : "removefriends.netlify.app"
     },
     {
-        "title" : "Git It",
-        "cover" : "/images/gitit.png",
-        "description" : "An interactive site that uses githubs API to find your friends!",
-        "github":"https://github.com/QuintonBrown/react-gitit",
-        "url" : "https://react-gitit.netlify.app/"
+        "title" : "Count It",
+        "cover" : "/images/counter.png",
+        "description" : "Interactive site for keeping counting, increase or decrease! ",
+        "github":"https://github.com/QuintonBrown/Counter",
+        "url" : "https://the-counter.netlify.app/"
     },
     {
-        "title" : "Gateway Project",
-        "cover" : "/images/Gateway.png",
-        "description" : "My first ever site built in 2 weeks utilizing HMTL and CSS",
-        "github" : "https://github.com/QuintonBrown/Gateway-Project",
-        "url" : "https://gateway-project.netlify.app/"
+        "title" : "Instagram Rebuild",
+        "cover" : "/images/instagram.png",
+        "description" : "Remake of Instagram.com desktop site improving user pain points",
+        "github" : "https://github.com/QuintonBrown/InstagramRebuild",
+        "url" : "https://instagramrebuild.netlify.app"
     }
 ]
