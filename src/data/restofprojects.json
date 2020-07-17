@@ -28,6 +28,13 @@
         "url" : ""
     },
     {
+        "title" : "Instagram Rebuild",
+        "cover" : "/images/instagram.png",
+        "description" : "Remake of Instagram.com desktop site improving user pain points",
+        "github" : "https://github.com/QuintonBrown/InstagramRebuild",
+        "url" : "https://instagramrebuild.netlify.app"
+    },
+    {
         "title" : "Pokemon Inquirer",
         "cover" : "/images/pokemon.jpg",
         "description" : "Can only be ran locally",
@@ -45,14 +52,14 @@
         "cover" : "/images/qbhotel.png",
         "description" : "The illustrious QB Hotel start by the Quinton Brown",
         "github":"https://github.com/QuintonBrown/QBHotel",
-        "url" : "qb-hotel.netlify.app/"
+        "url" : "https://qb-hotel.netlify.app/"
     },
     {
         "title" : "Animated Nav Bar",
         "cover" : "/images/animatednavbar.png",
         "description" : "Nav bar that shows the use of media queries and css animations",
         "github" : "https://github.com/QuintonBrown/AnimatedNavBar",
-        "url" : "animated-nav-bar.netlify.app"
+        "url" : "https://animated-nav-bar.netlify.app"
     },
     {
         "title" : "To Do List",
@@ -66,7 +73,7 @@
         "cover" : "/images/removefriend.png",
         "description" : "Site that uses state and props to remove objects from array",
         "github":"https://github.com/QuintonBrown/RemoveFriends",
-        "url" : "removefriends.netlify.app"
+        "url" : "https://removefriends.netlify.app"
     },
     {
         "title" : "Count It",
@@ -74,12 +81,5 @@
         "description" : "Interactive site for keeping counting, increase or decrease! ",
         "github":"https://github.com/QuintonBrown/Counter",
         "url" : "https://the-counter.netlify.app/"
-    },
-    {
-        "title" : "Instagram Rebuild",
-        "cover" : "/images/instagram.png",
-        "description" : "Remake of Instagram.com desktop site improving user pain points",
-        "github" : "https://github.com/QuintonBrown/InstagramRebuild",
-        "url" : "https://instagramrebuild.netlify.app"
     }
 ]

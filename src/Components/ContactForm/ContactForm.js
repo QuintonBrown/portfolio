@@ -8,7 +8,8 @@ const ContactForm = () => {
          
             <div className="contact-wrapper" id="contact">
                 <div className="contact-container">
-        <div className="contact-form-data">
+                    <div className="contact-form-data">
+                    <div className="contactme">Want to contact me?</div>
                         <form name="contact" method="POST" data-netlify="true">
                             <h1 className="contact-form-title">Thanks for taking the time to checkout my portfolio! Please leave a comment or just say hello :)</h1>
                             <input type="hidden" name="form-name" value="contact" />

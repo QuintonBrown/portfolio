@@ -1,5 +1,6 @@
 import React from 'react';
 import './Profile.css'
+import VideoPlayer from '../VideoPlayer/VideoPlayer';
 
 const Profile = () => {
     return (
@@ -12,10 +13,11 @@ const Profile = () => {
                     <h2 className="profile-text-ital">Charlotte, NC</h2>
                     <div className="resume">
                         <a href="https://docs.google.com/document/d/1RkJtR46B4rRDgYiTVMgs7jNwFW4tpa0L31yKVwvF9vg/edit" target="_blank" rel="noopener noreferrer"> <img src="./images/resume2.png" alt="Resume logo" /></a>
-                       
+                      
                     </div>
+                    
             </div>
-            
+            <VideoPlayer />
             {/* <a className="chevron"></a> */}
         </div>
            
