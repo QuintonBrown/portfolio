@@ -6,6 +6,12 @@
     margin: auto;
     background-color: #3897f0;
 }
+
+.contactme {
+    font-size: 4rem;
+    font-weight: 800;
+    color: white;
+}
 .contact-container{
     width: 60vw;
     height: 60vh;
@@ -26,8 +32,13 @@
     text-align: center;
 }
 
-input, textarea{
-    margin-top: 30px;
+textarea {
+    height: 70px;
+    font-size: 2rem;
+    margin-top: 20px;
+}
+input{
+    margin-top: 20px;
     height: 5vh;
     font-size:1.5rem;
 }
@@ -61,6 +72,12 @@ input, textarea{
         height:92.5vh;
         
     }
+
+    .contactme {
+        font-size: 3rem;
+        font-weight: 500;
+        color: white;
+    }
     .contact-container{
         width: 90vw;
         height: 90vh;
@@ -80,8 +97,14 @@ input, textarea{
         text-align: center;
     }
     
-    input, textarea{
-        margin-top: 30px;
+    textarea {
+        height: 70px;
+        font-size: 1.3rem;
+        margin-top: 20px;
+    }
+
+    input{
+        margin-top: 20px;
         height: 3vh;
         font-size:1rem;
     }
@@ -101,6 +124,12 @@ input, textarea{
         height:92.5vh;
         
     }
+
+    .contactme {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: white;
+    }
     .contact-container{
         width: 90vw;
         height: 90vh;
@@ -120,10 +149,17 @@ input, textarea{
         text-align: center;
     }
     
-    input, textarea{
-        margin-top: 30px;
+    textarea {
+        height: 50px;
+        font-size: 1.3rem;
+        margin-top: 20px;
+    }
+
+    input{
+        margin-top: 20px;
         height: 3vh;
         font-size:1rem;
+        font-family: Arial, Helvetica, sans-serif;
     }
     
     .contact-form-btn {
